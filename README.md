@@ -1,3 +1,6 @@
+
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
 ### Hello World 👋
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
 
@@ -57,7 +60,6 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 My Email: anitahartanto178@gmail.com
 
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 
 
 
