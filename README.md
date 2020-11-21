@@ -105,7 +105,11 @@ My Email: anitahartanto178@gmail.com
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-  https://github.com/TheCodingRocket/The-Box
+  Explore My Creations!
+  
+ Box: https://github.com/TheCodingRocket/The-Box
+ Frog: https://github.com/TheCodingRocket/Beta-Frogger
+ Wave: https://github.com/TheCodingRocket/Cube-Wave
   
 
 </details>
@@ -114,7 +118,8 @@ My Email: anitahartanto178@gmail.com
   
  <summary>:zap: GitHub Stats</summary>
 
-  My Friend's Stat. IDK WHY HE DIDN'T ADD MINE (Show off)
+  My Friend's Stat. IDK WHY HE DIDN'T ADD MINE (He's a litle bit of a Show off)
+  
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
