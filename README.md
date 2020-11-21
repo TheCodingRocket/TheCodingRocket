@@ -17,7 +17,7 @@ Here are some things about myself:
 - ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
-- 👯 In Summary: Practice, practice, practice... and when you feel you want to quit, DON'T.
+- 👯 In Summary: The only thing that is constant is Change.
 - 💬 And I am Muslim, Alhamdulillah
 
 Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
