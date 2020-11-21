@@ -57,6 +57,12 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 My Email: anitahartanto178@gmail.com
 
 
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
+
+
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
