@@ -109,7 +109,7 @@ My Email: anitahartanto178@gmail.com
 
 
 
-### Demo
+### Statistics
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -118,7 +118,7 @@ Use [show_owner](#customization) variable to include the repo's owner username
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Demo
+### Visualization
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -127,9 +127,9 @@ Use [show_owner](#customization) variable to include the repo's owner username
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Wakatime Week Stats
+# My Wakatime Week Stats
 
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
+
 
 ```md
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
