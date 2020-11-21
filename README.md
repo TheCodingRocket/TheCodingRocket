@@ -7,7 +7,7 @@ I  am a Programmer that is focused on making Web and Game Development using Java
 Here are some things about myself:
 
 - ⚡ I am still in middle school, 7th Grade 
-- 👯 I'm 13
+- 👯 I'm 13 years old
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Game Development
