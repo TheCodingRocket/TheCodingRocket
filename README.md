@@ -10,7 +10,7 @@ Here are some things about myself:
 - 🤔 I’m looking for help with a Pathfinding Algorithm
 - 💬 Ask me about Javascript
 - 📫 How to reach me: My Email > anitahartanto178@gmail.com
-- ⚡ Fun fact: Neutron stars can spin at a rate of 600 rotations per second.
+- ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
 - 👯 In Summary: Practice, practice, practice... and when you feel you want to quit, DON'T.
