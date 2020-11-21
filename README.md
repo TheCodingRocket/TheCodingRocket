@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are some things about myself:
 
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning Python
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
 - 👯 In Summary: Practice, practice, practice... and when you feel you want to quit, DON'T.
+- 💬 And I am Muslim, Alhamdulillah
 
 Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
 
