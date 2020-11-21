@@ -1,7 +1,24 @@
+# My Wakatime Week Stats
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- Compact layout
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
+
+
+
+
 
 ### Hello World 👋
+
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
 
 
@@ -34,6 +51,11 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+
+
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
+
 
 ### Spotify Playing 🎧
 
