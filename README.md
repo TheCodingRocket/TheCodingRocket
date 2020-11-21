@@ -23,3 +23,9 @@ Here are some things about myself:
 Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
 
 Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
+
+
+
+
+
+https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
