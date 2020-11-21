@@ -28,4 +28,15 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 
 
 
-https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+Pawan Kumar's GitHub Stats
+S
+Total Stars:
+26.7k
+Total Commits (2020):
+303
+Total PRs:
+11
+Total Issues:
+65
+Contributed to:
+8
