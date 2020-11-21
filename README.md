@@ -137,8 +137,7 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 
 ### Statistics DIY
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
