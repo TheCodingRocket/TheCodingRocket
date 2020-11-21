@@ -17,7 +17,7 @@
 
 
 
-### Hello World 👋
+### Hello World I'm Zidan - aka [TheCodingRocket] 👋
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
 
@@ -45,19 +45,12 @@ Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
 Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
 
 
-###  I'm Zidan - aka [TheCodingRocket][website] 👋
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
 
 ![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 
 
 
-### Spotify Playing 🎧
+### Spotify Playing  🎧 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
