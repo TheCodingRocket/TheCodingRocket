@@ -140,11 +140,11 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 [![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
 
 ---
-[![ReadMe Card]https://github.com/TheCodingRocket/Sphere-Rush
+[![ReadMe Card](https://github.com/TheCodingRocket/Sphere-Rush)
 
 ---
 
-[![ReadMe Card]https://github.com/TheCodingRocket/Fractal-Trees
+[![ReadMe Card](https://github.com/TheCodingRocket/Fractal-Trees)
 
 
 ### Visualizing Languages
