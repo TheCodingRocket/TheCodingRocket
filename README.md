@@ -22,16 +22,17 @@
 - ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
-- <details>
-   <summary>:dancers: In Summary</summary>
+- 💬 And I am Muslim, Alhamdulillah
+- 📫 My Email: muhammadzidan3003@gmail.com 
+
+<details>
+   <summary>:zap: In Summary</summary>
    
    <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 </details>
-- 💬 And I am Muslim, Alhamdulillah
-- 📫 My Email: muhammadzidan3003@gmail.com 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  
