@@ -1,4 +1,4 @@
-
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
@@ -10,8 +10,7 @@
  
 <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" /> <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
-- 🔭 I am still in middle school, 7th Grade 
-- 👯 I'm 13 years old
+
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning Python
 - 💬 I’m looking to collaborate on Game Development
