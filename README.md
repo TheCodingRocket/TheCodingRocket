@@ -57,6 +57,13 @@ Here are some things about myself:
 <br />
 <br />
 
+![](https://komarev.com/ghpvc/?username=don-k-jacob&color=010040&style=flat-square)
+[![Repos Badge](https://badges.pufler.dev/repos/don-k-jacob)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/all/puf17640)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/puf17640)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/puf17640)](https://www.donkjacob.me)
+
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
