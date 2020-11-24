@@ -6,9 +6,7 @@
 
 - Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 
 
@@ -58,6 +56,9 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 
 My Email: anitahartanto178@gmail.com
 
+
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
@@ -125,9 +126,9 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
   
  <summary>:zap: GitHub Stats</summary>
 
-  I don't know why i added this, it just looks really cool.
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+ 
 
 </details>
 
