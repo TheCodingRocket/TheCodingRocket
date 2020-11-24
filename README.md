@@ -1,3 +1,7 @@
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=mmphego&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br> -->
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 
 
