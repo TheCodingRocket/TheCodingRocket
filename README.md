@@ -22,7 +22,14 @@
 - ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
-- 👯 In Summary: The only thing that is constant is Change.
+- <details>
+   <summary>:dancers: In Summary</summary>
+   
+   <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
+
+</details>
 - 💬 And I am Muslim, Alhamdulillah
 - 📫 My Email: muhammadzidan3003@gmail.com 
 
