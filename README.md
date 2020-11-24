@@ -1,4 +1,3 @@
-[![ReadMe Card](https://Pathfinding-Algorithm.vercel.app/api/pin/?username=TheCodingRocket&repo=Pathfinding-Algorithm)](https://github.com/TheCodingRocket/Pathfinding-Algorithm)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
