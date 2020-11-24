@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics. 
  
-<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" /> <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
 
 - 🔭 I’m currently working on Web Develpment
@@ -49,6 +49,7 @@
 
 </details>
 
+<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
 
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
