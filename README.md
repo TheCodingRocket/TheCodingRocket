@@ -57,12 +57,11 @@ Here are some things about myself:
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=don-k-jacob&color=010040&style=flat-square)
-[![Repos Badge](https://badges.pufler.dev/repos/don-k-jacob)](https://www.donkjacob.me)
-[![Commits Badge](https://badges.pufler.dev/commits/all/puf17640)](https://www.donkjacob.me)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/puf17640)](https://www.donkjacob.me)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://www.donkjacob.me)
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/puf17640)](https://www.donkjacob.me)
+[![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/don-k-jacob)
+ <p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=don-k-jacob&column=7" alt="don-k-jacob" /></a> </p>
+
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
