@@ -10,9 +10,6 @@ I  am a Programmer that is focused on making Web and Game Development using Java
  
 <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" /> <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
-
-Here are some things about myself:
-
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I am still in middle school, 7th Grade 
 - 👯 I'm 13 years old
 - 🔭 I’m currently working on Web Develpment
