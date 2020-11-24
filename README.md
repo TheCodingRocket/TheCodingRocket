@@ -1,10 +1,14 @@
+### Hello World 👋
 
+<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
+    <br />
+    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-### Hello World I'm Zidan - aka [TheCodingRocket] 👋
+### I'm Zidan - aka [TheCodingRocket] 
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
 
