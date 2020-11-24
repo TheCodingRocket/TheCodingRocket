@@ -127,6 +127,11 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
  <summary>:zap: GitHub Stats</summary>
 
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+</a>
   
  
 
