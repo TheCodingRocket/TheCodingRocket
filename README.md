@@ -4,10 +4,6 @@
     <br />
     <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 ### I'm Zidan - aka [TheCodingRocket] 
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
@@ -26,7 +22,7 @@ Here are some things about myself:
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
 - 👯 In Summary: The only thing that is constant is Change.
 - 💬 And I am Muslim, Alhamdulillah
-
+- 📫 My Email: muhammadzidan3003@gmail.com 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
@@ -35,7 +31,6 @@ Here are some things about myself:
 
 
 
-- 📫 My Email: muhammadzidan3003@gmail.com 
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
