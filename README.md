@@ -25,14 +25,6 @@
 - 💬 And I am Muslim, Alhamdulillah
 - 📫 My Email: muhammadzidan3003@gmail.com 
 
-<details>
-   <summary>:zap: In Summary</summary>
-   
-   <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
-
-</details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  
@@ -63,6 +55,15 @@
    <summary>:zap: Week Stats Analytics</summary>
    
    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
+
+</details>
+
+<details>
+   <summary>:zap: In Summary</summary>
+   
+   <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
 
 </details>
 
