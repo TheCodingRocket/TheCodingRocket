@@ -2,13 +2,15 @@
 
 ### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
-    <br />
+
     <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
 
 ### I'm Zidan - aka [TheCodingRocket] 
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics. <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+
+ <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
+
 
 Here are some things about myself:
 
@@ -25,6 +27,10 @@ Here are some things about myself:
 - 👯 In Summary: The only thing that is constant is Change.
 - 💬 And I am Muslim, Alhamdulillah
 - 📫 My Email: muhammadzidan3003@gmail.com 
+
+<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
+    <br />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
@@ -57,8 +63,8 @@ Here are some things about myself:
 <br />
 <br />
 
-[![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/don-k-jacob)
+
+ 
  <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=don-k-jacob&column=7" alt="don-k-jacob" /></a> </p>
 
