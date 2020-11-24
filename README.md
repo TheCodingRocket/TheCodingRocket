@@ -17,23 +17,22 @@ Here are some things about myself:
 - 👯 I’m looking to collaborate on Game Development
 - 🤔 I’m looking for help with a Pathfinding Algorithm
 - 💬 Ask me about Javascript
-- 📫 How to reach me: My Email > anitahartanto178@gmail.com
 - ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
 - 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics
 - 👯 In Summary: The only thing that is constant is Change.
 - 💬 And I am Muslim, Alhamdulillah
 
-
-### Connect with me:
-
-My Email: muhammadzidan3003@gmail.com 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
 
 </a>
+
+
+
+- 📫 My Email: muhammadzidan3003@gmail.com 
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -80,47 +79,9 @@ My Email: muhammadzidan3003@gmail.com
 
 
 
-
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  Explore My Creations!
-  
- Box: https://github.com/TheCodingRocket/The-Box
- ---
- Frog: https://github.com/TheCodingRocket/Beta-Frogger
----
-Wave: https://github.com/TheCodingRocket/Cube-Wave
-  ---
-### Statistics DIY
-
-[![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
-
----
-[![ReadMe Card](https://github.com/TheCodingRocket/Sphere-Rush)
-
----
-
-[![ReadMe Card](https://github.com/TheCodingRocket/Fractal-Trees)
-</details>
-
-<details>
-  
- <summary>:zap: GitHub Stats</summary>
-
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-
-  
- 
-
-</details>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visualizing Languages
 
