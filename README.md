@@ -24,9 +24,6 @@
 - 💬 And I am Muslim, Alhamdulillah
 - 📫 My Email: muhammadzidan3003@gmail.com 
 
-<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
-    <br />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
@@ -46,7 +43,8 @@
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
+    <br />
 
 
 </details>
