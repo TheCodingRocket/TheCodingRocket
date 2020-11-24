@@ -1,5 +1,5 @@
 
-api/pin?username=TheCodingRocket&repo=Pathfinding-Algorithm
+api/pin?username=TheCodingRocket&repo=https://github.com/TheCodingRocket/Pathfinding-Algorithm
 
 
 <div align="center">
