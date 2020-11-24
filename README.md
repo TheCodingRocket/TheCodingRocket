@@ -4,7 +4,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- Compact layout
+
 
 
 
@@ -40,7 +40,7 @@ Here are some things about myself:
 
 Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
 
-Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
+Pathfinding Algorithm! I've done it! --> https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
 
 
 
@@ -56,9 +56,9 @@ Pathfinding Algorithm! I've done it! > https://editor.p5js.org/anitahartanto178/
 
 My Email: anitahartanto178@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
@@ -87,7 +87,7 @@ My Email: anitahartanto178@gmail.com
 <br />
 <br />
 
----
+
 
 
 [website]: https://codeSTACKr.com
@@ -119,7 +119,16 @@ My Email: anitahartanto178@gmail.com
 ---
 Wave: https://github.com/TheCodingRocket/Cube-Wave
   ---
+### Statistics DIY
 
+[![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
+
+---
+[![ReadMe Card](https://github.com/TheCodingRocket/Sphere-Rush)
+
+---
+
+[![ReadMe Card](https://github.com/TheCodingRocket/Fractal-Trees)
 </details>
 
 <details>
@@ -139,13 +148,6 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 
 
 
-
-
-
-
-
-
-
 ### Statistics DIY
 
 [![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
@@ -162,9 +164,9 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
