@@ -13,12 +13,11 @@ I  am a Programmer that is focused on making Web and Game Development using Java
 
 Here are some things about myself:
 
-- ⚡ I am still in middle school, 7th Grade 
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I am still in middle school, 7th Grade 
 - 👯 I'm 13 years old
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning Python
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
- I’m looking to collaborate on Game Development
+- 💬 I’m looking to collaborate on Game Development
 - 🤔 I’m looking for help with a Pathfinding Algorithm
 - 💬 Ask me about Javascript
 - ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
