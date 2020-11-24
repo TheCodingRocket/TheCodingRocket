@@ -2,7 +2,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -44,7 +44,7 @@ Pathfinding Algorithm! I've done it! --> https://editor.p5js.org/anitahartanto17
 
 
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
 
 
 
@@ -55,6 +55,8 @@ Pathfinding Algorithm! I've done it! --> https://editor.p5js.org/anitahartanto17
 ### Connect with me:
 
 My Email: anitahartanto178@gmail.com
+---
+My Email: muhammadzidan3003@gmail.com [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
