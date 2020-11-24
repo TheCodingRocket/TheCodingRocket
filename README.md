@@ -27,11 +27,8 @@
 - 📫 My Email: muhammadzidan3003@gmail.com 
 
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+[![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket)](https://github.com/TheCodingRocket/github-readme-stats)
 
-</a> 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/don-k-jacob)
 
