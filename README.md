@@ -1,7 +1,9 @@
-# My Wakatime Week Stats
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ### Hello World I'm Zidan - aka [TheCodingRocket] 👋
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
@@ -22,21 +24,21 @@ Here are some things about myself:
 - 👯 In Summary: The only thing that is constant is Change.
 - 💬 And I am Muslim, Alhamdulillah
 
-Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
-Pathfinding Algorithm! I've done it! --> https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
-
 
 ### Connect with me:
 
-My Email: anitahartanto178@gmail.com
----
 My Email: muhammadzidan3003@gmail.com 
----
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+  
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
+
 </a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Languages and Tools I Use:
@@ -112,9 +114,7 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
-</a>
+
   
  
 
@@ -126,7 +126,9 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 
 
 
