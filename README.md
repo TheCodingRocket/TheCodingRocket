@@ -2,25 +2,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Hello World I'm Zidan - aka [TheCodingRocket] 👋
 
 I  am a Programmer that is focused on making Web and Game Development using Javascript. Right now i'm currently learning Python to do Data Science and Statistics.
-
-
-
 
 Here are some things about myself:
 
@@ -39,18 +23,8 @@ Here are some things about myself:
 - 💬 And I am Muslim, Alhamdulillah
 
 Check my Coding Arcade! --> https://github.com/TheCodingRocket/The-Coding-Arcade
-
 Pathfinding Algorithm! I've done it! --> https://editor.p5js.org/anitahartanto178/sketches/4rz0wMr2B
 
-
-
-
-
-
-
-### Spotify Playing  🎧 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -59,11 +33,7 @@ My Email: anitahartanto178@gmail.com
 My Email: muhammadzidan3003@gmail.com 
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lrusso96&show_icons=true&include_all_commits=true&hide_title=true" alt="Anurag's github stats" />
 </a>
@@ -150,19 +120,7 @@ Wave: https://github.com/TheCodingRocket/Cube-Wave
 
 </details>
 
-
-
-### Statistics DIY
-
-[![ReadMe Card](https://github.com/TheCodingRocket/Floating-Circle)
-
----
-[![ReadMe Card](https://github.com/TheCodingRocket/Sphere-Rush)
-
----
-
-[![ReadMe Card](https://github.com/TheCodingRocket/Fractal-Trees)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visualizing Languages
 
