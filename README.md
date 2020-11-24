@@ -1,8 +1,4 @@
-<details>
-  <summary>:zap: Languages and tools i use</summary>
 
- 
-</details>
 
 
 ### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
@@ -85,6 +81,9 @@ I  am a Programmer that is focused on making Web and Game Development using Java
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+<p align="center">
+  <img src="https://andyruwruw.vercel.app/api/skills">
+</p>
 </details>
 
 <p align="center">
