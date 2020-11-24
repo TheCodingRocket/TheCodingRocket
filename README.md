@@ -1,6 +1,4 @@
-
-api/pin?username=TheCodingRocket&repo=https://github.com/TheCodingRocket/Pathfinding-Algorithm
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Pathfinding-Algorithm)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
