@@ -57,7 +57,7 @@
    
    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
 
-[![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket)](https://github.com/TheCodingRocket/github-readme-stats)
+![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true)
 
 </details>
 
