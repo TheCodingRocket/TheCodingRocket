@@ -79,9 +79,10 @@
   <p align="center">
  
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=TheCodingRocket&column=7" alt="TheCodingRocket" /></a> </p>
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=TheCodingRocket&column=7"&heme=onedark alt="TheCodingRocket" /></a> </p>
 
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=don-k-jacob&column=7" alt="don-k-jacob" /></a> </p>
