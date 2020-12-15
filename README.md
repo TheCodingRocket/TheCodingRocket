@@ -26,17 +26,6 @@
 - 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics 
 - 📫 My Email: muhammadzidan3003@gmail.com
 
- 
- <a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-
-
- 
-
-
-<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
 
 <details>
  <summary>:zap: Languages and tools i use</summary>
@@ -55,6 +44,8 @@
    
 
 ![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true)
+
+ <!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </details>
 
