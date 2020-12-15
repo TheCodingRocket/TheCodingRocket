@@ -4,9 +4,7 @@
 </div>  
 
 
-### Hello Everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+### Hello Everyone! 
   
    
 ### I'm Zidan - aka TheCodingRocket 
