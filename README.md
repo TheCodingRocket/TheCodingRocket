@@ -58,15 +58,7 @@
 
 </details>
 
-<details>
-   <summary>:zap: In Summary</summary>
-   
-   <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
 
-
-</details>
 
 
 <p align="center">
