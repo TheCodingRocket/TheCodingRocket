@@ -45,8 +45,6 @@
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=tokyonight" />
-    <br />
 
 
 </details>
@@ -54,7 +52,7 @@
 <details>
    <summary>:zap: Week Stats Analytics</summary>
    
-   <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
+   
 
 ![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true)
 
