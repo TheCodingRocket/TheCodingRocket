@@ -42,24 +42,13 @@
 ---
 
 
-### Languages and tools i use
+### Languages and tools i use:
 
 <p align="center">                                   
   <img src="https://andyruwruw.vercel.app/api/skills">
  
 
-
-
-
-
-
-<details>
-   <summary>:zap: Week Stats Analytics</summary>
-   
-   
-
-![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true) <!-- wi*quL3fcV -->
-
+### My Skills:
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
@@ -73,6 +62,17 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </p>
+
+
+<details>
+   <summary>:zap: Week Stats Analytics</summary>
+   
+   
+
+![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true) <!-- wi*quL3fcV -->
+
+
+
 
 </details>
 
