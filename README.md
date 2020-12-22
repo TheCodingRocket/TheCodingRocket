@@ -1,8 +1,7 @@
  <p align="center">
   <br>
  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/na93r/count.svg" alt="Visitor Count"/>
-</p>
+  
 
 
 <div align="center">
