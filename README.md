@@ -44,8 +44,10 @@
 
 ### Languages and tools i use
 
-<p align="center">                                   ! !!
-  <img src="https://andyruwruw.vercel.app/api/skills"><code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<p align="center">                                   
+  <img src="https://andyruwruw.vercel.app/api/skills">
+ 
+ <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
