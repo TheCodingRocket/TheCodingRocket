@@ -67,6 +67,9 @@
 
 </details>
 
+
+---
+
 <details>
    <summary>:zap: Week Stats Analytics</summary>
    
@@ -74,6 +77,19 @@
 
 ![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true) <!-- wi*quL3fcV -->
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Indonesia/Yogyakarta
+
+💬 Programming Languages: 
+Go                       13 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.44% 
+Python                   8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   30.98% 
+Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
+Julia                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
+
+```
 
 
 
