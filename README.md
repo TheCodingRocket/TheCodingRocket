@@ -30,11 +30,7 @@
 ---
 
 
-### Languages and tools i use:
 
-<p align="center">                                   
-  <img src="https://andyruwruw.vercel.app/api/skills">
- 
 
 ### Skills:
 
@@ -52,14 +48,8 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </p>
 
-
-
-
-
-
-### Week Stats Analytics:
-   
-   
+<details>
+   <summary>:zap: In Summary</summary>
 
 [![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket)](https://github.com/TheCodingRocket/github-readme-stats)
 
