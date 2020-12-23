@@ -15,18 +15,11 @@
 ### I'm Zidan - aka TheCodingRocket 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
- I  am a Programmer that is focused on making Web and Game Development. Right now i'm currently learning Python to learn and explore more about Data Science and Statistics. 
+
+I am a Passionate Javascript programmer that is focused on making fun and exciting coding projects, creating new technologies for others. To make that into a reality, I use p5.js for all my coding projects and Jupyter Notebook for learning and exploring more about Data Science and Statistics. I'm also a coding teacher in my school and my goal is to make students more impassioned to learn how to code. 
  
 
-- 🔭 I’m currently working on Web Develpment
-- 🌱 I’m currently learning Python
-- 💬 I’m looking to collaborate on Game Development
-- 🤔 I’m looking for help with a Pathfinding Algorithm
-- 💬 Ask me about Javascript
-- ⚡ Fun fact: Multiplying ones always gives you palindromic numbers.
-- 🔭 Library: I use a Javascript Library called p5.js, for all my Javascript games
-- 🌱 Python: I use Jupyter Notebook for Data sciences and Statistics 
-- 📫 My Email: muhammadzidan3003@gmail.com
+
 
 
 
