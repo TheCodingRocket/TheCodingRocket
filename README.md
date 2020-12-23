@@ -16,6 +16,8 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a Passionate Javascript programmer that is focused on making fun and exciting coding projects, creating new technologies for others. To make that into a reality, I use p5.js for all my coding projects and Jupyter Notebook for learning and exploring more about Data Science and Statistics. I'm also a high school coding teacher and my goal is to make students more impassioned to learn how to code. 
  
+ [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/TheCodingRocket)
+ 
  ---
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Art-Program-Creative-Pixel-Paint)](https://github.com/TheCodingRocket/Art-Program-Creative-Pixel-Paint)
@@ -23,7 +25,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Floating-Circle)](https://github.com/TheCodingRocket/Floating-Circle)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Minesweeper)](https://github.com/TheCodingRocket/Minesweeper)
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/TheCodingRocket)
+
 
 ### Skills:
 
