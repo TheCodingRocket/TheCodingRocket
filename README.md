@@ -17,8 +17,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
  I  am a Programmer that is focused on making Web and Game Development. Right now i'm currently learning Python to do Data Science and  some Statistics. 
  
-![pikachu](./pikachu.gif)
-
+# ![pikachu](./pikachu.gif)
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning Python
 - 💬 I’m looking to collaborate on Game Development
