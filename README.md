@@ -36,8 +36,7 @@
   <img src="https://andyruwruw.vercel.app/api/skills">
  
 
-<details>
-   <summary>:zap: Skills</summary>
+### Skills
 
 <p align="center">
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
@@ -53,13 +52,12 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </p>
 
-</details>
+
 
 
 ---
 
-<details>
-   <summary>:zap: Week Stats Analytics</summary>
+### Week Stats Analytics
    
    
 
