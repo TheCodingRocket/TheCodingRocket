@@ -32,7 +32,7 @@
 
  [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/TheCodingRocket)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Art-Program-Creative-Pixel-Paint)](https://github.com/TheCodingRocket/Art-Program-Creative-Pixel-Paint)
 
 
 
