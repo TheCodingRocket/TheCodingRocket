@@ -33,9 +33,9 @@
  [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/TheCodingRocket)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Art-Program-Creative-Pixel-Paint)](https://github.com/TheCodingRocket/Art-Program-Creative-Pixel-Paint)
-
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=BlackHoleNewtonianSimulation)](https://github.com/TheCodingRocket/BlackHoleNewtonianSimulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Floating-Circle)](https://github.com/TheCodingRocket/Floating-Circle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Minesweeper)](https://github.com/TheCodingRocket/Minesweeper)
 ---
 
 
