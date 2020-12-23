@@ -36,7 +36,7 @@
   <img src="https://andyruwruw.vercel.app/api/skills">
  
 
-### Skills
+### Skills:
 
 <p align="center">
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
@@ -55,9 +55,9 @@
 
 
 
----
 
-### Week Stats Analytics
+
+### Week Stats Analytics:
    
    
 
