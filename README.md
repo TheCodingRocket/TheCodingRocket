@@ -49,7 +49,7 @@
 </p>
 
 <details>
-   <summary>:zap: In Summary</summary>
+   <summary>:zap: Week Stats Analytics</summary>
 
 [![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket)](https://github.com/TheCodingRocket/github-readme-stats)
 
