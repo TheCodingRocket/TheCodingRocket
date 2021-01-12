@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ 
   
   
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm Zidan - aka TheCodingRocket 
@@ -13,10 +13,7 @@ A Passionate Javascript programmer that is focused on making fun, exciting, and 
  
  ---
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Art-Program-Creative-Pixel-Paint)](https://github.com/TheCodingRocket/Art-Program-Creative-Pixel-Paint)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=BlackHoleNewtonianSimulation)](https://github.com/TheCodingRocket/BlackHoleNewtonianSimulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Floating-Circle)](https://github.com/TheCodingRocket/Floating-Circle)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Minesweeper)](https://github.com/TheCodingRocket/Minesweeper)
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
 
