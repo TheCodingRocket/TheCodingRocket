@@ -1,11 +1,5 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p align="center">
-  <br>
- <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/na93r/count.svg" alt="Visitor Count"/>
-</p>
-
 
 
 
@@ -36,7 +30,13 @@
 
 <p align="center">                                   
   <img src="https://andyruwruw.vercel.app/api/skills">
-<p align="center">
+<p align="center"><p align="center">
+  <br>
+ <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/na93r/count.svg" alt="Visitor Count"/>
+</p>
+
+
 
 
 <details>
