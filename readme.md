@@ -51,7 +51,8 @@
 <details>
    <summary>:zap: Week Stats Analytics</summary>
 
-[![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket)](https://github.com/TheCodingRocket/github-readme-stats)
+
+![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true)
 
 📊 **This Week I Spent My Time On** 
 
