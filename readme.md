@@ -4,11 +4,11 @@
 
 
 
-### Hello Everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hello Everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">I'm Zidan - aka TheCodingRocket 
   
   
    
-### I'm Zidan - aka TheCodingRocket 
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>A Passionate Javascript programmer that is focused on making fun, exciting, and open-source coding projects, creating new technologies for others. To make that into a reality I use p5.js for all my coding projects and Jupyter Notebook for learning and exploring more about Data Visulaization. 
  
@@ -43,7 +43,7 @@
    <summary>:zap: Week Stats Analytics</summary>
 
 
-<![TheCodingRocket's github stats](https://github-readme-stats.vercel.app/api?username=TheCodingRocket&theme=dark&show_icons=true)>
+
 
 📊 **This Week I Spent My Time On** 
 
