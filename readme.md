@@ -32,7 +32,7 @@
 
 
 
-### Skills:
+### Other tools I use:
 
 <p align="center">
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
