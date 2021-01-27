@@ -4,8 +4,7 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm Zidan - aka TheCodingRocket 
 
 
-A Passionate Javascript programmer that is focused on making fun, exciting, and open-source coding projects, creating new technologies for others. To make that into a reality I use p5.js for all my coding projects and Jupyter Notebook for learning and exploring more about Data Visulaization. 
- 
+A Passionate Javascript programmer that is focused on making fun, exciting, and open-source coding projects, creating new technologies for others. 
  
 
  
@@ -17,7 +16,7 @@ A Passionate Javascript programmer that is focused on making fun, exciting, and 
 
 
 
-### Other tools I use:
+### Other tools I use(Yeah, I don't really care either, it looks good okay?):
 
 <p align="center">                                   
   <img src="https://andyruwruw.vercel.app/api/skills">
@@ -39,7 +38,6 @@ A Passionate Javascript programmer that is focused on making fun, exciting, and 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Indonesia/Yogyakarta
 
 💬 Programming Languages: 
 Javascript               13 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.44% 
