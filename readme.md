@@ -16,7 +16,7 @@ A Passionate Javascript programmer that is focused on making fun, exciting, and 
 
 
 
-### Other tools I use(Yeah, I don't really care either, it just looks good):
+### Other tools I use - yeah I don't really care either, it just looks good:
 
 <p align="center">                                   
   <img src="https://andyruwruw.vercel.app/api/skills">
