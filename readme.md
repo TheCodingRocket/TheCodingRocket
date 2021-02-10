@@ -43,7 +43,7 @@ A Passionate Javascript programmer that is focused on making fun, exciting, and 
 Javascript               13 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.44% 
 Python                   8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   30.98% 
 Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-P5.js                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
+CSS                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
 HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
 ```
